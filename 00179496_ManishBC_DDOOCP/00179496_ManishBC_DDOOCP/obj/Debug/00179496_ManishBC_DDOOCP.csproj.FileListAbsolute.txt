@@ -1,0 +1,55 @@
+E:\First year\sem2\SEM_2\Designing and Developing Object-Oriented Computer Programs\Sample Assignment\00179496_ManishBC_DDOOCP\00179496_ManishBC_DDOOCP\obj\Debug\00179496_ManishBC_DDOOCP.csprojAssemblyReference.cache
+E:\First year\sem2\SEM_2\Designing and Developing Object-Oriented Computer Programs\Sample Assignment\00179496_ManishBC_DDOOCP\00179496_ManishBC_DDOOCP\obj\Debug\_00179496_ManishBC_DDOOCP.Form1.resources
+E:\First year\sem2\SEM_2\Designing and Developing Object-Oriented Computer Programs\Sample Assignment\00179496_ManishBC_DDOOCP\00179496_ManishBC_DDOOCP\obj\Debug\_00179496_ManishBC_DDOOCP.Properties.Resources.resources
+E:\First year\sem2\SEM_2\Designing and Developing Object-Oriented Computer Programs\Sample Assignment\00179496_ManishBC_DDOOCP\00179496_ManishBC_DDOOCP\obj\Debug\00179496_ManishBC_DDOOCP.csproj.GenerateResource.cache
+E:\First year\sem2\SEM_2\Designing and Developing Object-Oriented Computer Programs\Sample Assignment\00179496_ManishBC_DDOOCP\00179496_ManishBC_DDOOCP\obj\Debug\00179496_ManishBC_DDOOCP.csproj.CoreCompileInputs.cache
+E:\First year\sem2\SEM_2\Designing and Developing Object-Oriented Computer Programs\Sample Assignment\00179496_ManishBC_DDOOCP\00179496_ManishBC_DDOOCP\bin\Debug\00179496_ManishBC_DDOOCP.exe.config
+E:\First year\sem2\SEM_2\Designing and Developing Object-Oriented Computer Programs\Sample Assignment\00179496_ManishBC_DDOOCP\00179496_ManishBC_DDOOCP\bin\Debug\00179496_ManishBC_DDOOCP.exe
+E:\First year\sem2\SEM_2\Designing and Developing Object-Oriented Computer Programs\Sample Assignment\00179496_ManishBC_DDOOCP\00179496_ManishBC_DDOOCP\bin\Debug\00179496_ManishBC_DDOOCP.pdb
+E:\First year\sem2\SEM_2\Designing and Developing Object-Oriented Computer Programs\Sample Assignment\00179496_ManishBC_DDOOCP\00179496_ManishBC_DDOOCP\obj\Debug\00179496_ManishBC_DDOOCP.exe
+E:\First year\sem2\SEM_2\Designing and Developing Object-Oriented Computer Programs\Sample Assignment\00179496_ManishBC_DDOOCP\00179496_ManishBC_DDOOCP\obj\Debug\00179496_ManishBC_DDOOCP.pdb
+E:\First year\sem2\SEM_2\Designing and Developing Object-Oriented Computer Programs\Sample Assignment\00179496_ManishBC_DDOOCP\00179496_ManishBC_DDOOCP\obj\Debug\_00179496_ManishBC_DDOOCP.BarChart.resources
+C:\Users\manys\Desktop\00179496_ManishBC_DDOOCP\00179496_ManishBC_DDOOCP\bin\Debug\00179496_ManishBC_DDOOCP.exe.config
+C:\Users\manys\Desktop\00179496_ManishBC_DDOOCP\00179496_ManishBC_DDOOCP\bin\Debug\00179496_ManishBC_DDOOCP.exe
+C:\Users\manys\Desktop\00179496_ManishBC_DDOOCP\00179496_ManishBC_DDOOCP\bin\Debug\00179496_ManishBC_DDOOCP.pdb
+C:\Users\manys\Desktop\00179496_ManishBC_DDOOCP\00179496_ManishBC_DDOOCP\obj\Debug\00179496_ManishBC_DDOOCP.csprojAssemblyReference.cache
+C:\Users\manys\Desktop\00179496_ManishBC_DDOOCP\00179496_ManishBC_DDOOCP\obj\Debug\_00179496_ManishBC_DDOOCP.BarChart.resources
+C:\Users\manys\Desktop\00179496_ManishBC_DDOOCP\00179496_ManishBC_DDOOCP\obj\Debug\_00179496_ManishBC_DDOOCP.Form1.resources
+C:\Users\manys\Desktop\00179496_ManishBC_DDOOCP\00179496_ManishBC_DDOOCP\obj\Debug\_00179496_ManishBC_DDOOCP.Properties.Resources.resources
+C:\Users\manys\Desktop\00179496_ManishBC_DDOOCP\00179496_ManishBC_DDOOCP\obj\Debug\00179496_ManishBC_DDOOCP.csproj.GenerateResource.cache
+C:\Users\manys\Desktop\00179496_ManishBC_DDOOCP\00179496_ManishBC_DDOOCP\obj\Debug\00179496_ManishBC_DDOOCP.csproj.CoreCompileInputs.cache
+C:\Users\manys\Desktop\00179496_ManishBC_DDOOCP\00179496_ManishBC_DDOOCP\obj\Debug\00179496_ManishBC_DDOOCP.exe
+C:\Users\manys\Desktop\00179496_ManishBC_DDOOCP\00179496_ManishBC_DDOOCP\obj\Debug\00179496_ManishBC_DDOOCP.pdb
+C:\Users\manys\OneDrive\Documents\DDOOCP Sample Examination\00179496_ManishBC_DDOOCP\00179496_ManishBC_DDOOCP\bin\Debug\00179496_ManishBC_DDOOCP.exe.config
+C:\Users\manys\OneDrive\Documents\DDOOCP Sample Examination\00179496_ManishBC_DDOOCP\00179496_ManishBC_DDOOCP\bin\Debug\00179496_ManishBC_DDOOCP.exe
+C:\Users\manys\OneDrive\Documents\DDOOCP Sample Examination\00179496_ManishBC_DDOOCP\00179496_ManishBC_DDOOCP\bin\Debug\00179496_ManishBC_DDOOCP.pdb
+C:\Users\manys\OneDrive\Documents\DDOOCP Sample Examination\00179496_ManishBC_DDOOCP\00179496_ManishBC_DDOOCP\obj\Debug\00179496_ManishBC_DDOOCP.csprojAssemblyReference.cache
+C:\Users\manys\OneDrive\Documents\DDOOCP Sample Examination\00179496_ManishBC_DDOOCP\00179496_ManishBC_DDOOCP\obj\Debug\_00179496_ManishBC_DDOOCP.BarChart.resources
+C:\Users\manys\OneDrive\Documents\DDOOCP Sample Examination\00179496_ManishBC_DDOOCP\00179496_ManishBC_DDOOCP\obj\Debug\_00179496_ManishBC_DDOOCP.Form1.resources
+C:\Users\manys\OneDrive\Documents\DDOOCP Sample Examination\00179496_ManishBC_DDOOCP\00179496_ManishBC_DDOOCP\obj\Debug\_00179496_ManishBC_DDOOCP.Properties.Resources.resources
+C:\Users\manys\OneDrive\Documents\DDOOCP Sample Examination\00179496_ManishBC_DDOOCP\00179496_ManishBC_DDOOCP\obj\Debug\00179496_ManishBC_DDOOCP.csproj.GenerateResource.cache
+C:\Users\manys\OneDrive\Documents\DDOOCP Sample Examination\00179496_ManishBC_DDOOCP\00179496_ManishBC_DDOOCP\obj\Debug\00179496_ManishBC_DDOOCP.csproj.CoreCompileInputs.cache
+C:\Users\manys\OneDrive\Documents\DDOOCP Sample Examination\00179496_ManishBC_DDOOCP\00179496_ManishBC_DDOOCP\obj\Debug\00179496_ManishBC_DDOOCP.exe
+C:\Users\manys\OneDrive\Documents\DDOOCP Sample Examination\00179496_ManishBC_DDOOCP\00179496_ManishBC_DDOOCP\obj\Debug\00179496_ManishBC_DDOOCP.pdb
+C:\Users\manys\OneDrive\Documents\Assignement\DDOOCP Sample Examination\00179496_ManishBC_DDOOCP\00179496_ManishBC_DDOOCP\bin\Debug\00179496_ManishBC_DDOOCP.exe.config
+C:\Users\manys\OneDrive\Documents\Assignement\DDOOCP Sample Examination\00179496_ManishBC_DDOOCP\00179496_ManishBC_DDOOCP\bin\Debug\00179496_ManishBC_DDOOCP.exe
+C:\Users\manys\OneDrive\Documents\Assignement\DDOOCP Sample Examination\00179496_ManishBC_DDOOCP\00179496_ManishBC_DDOOCP\bin\Debug\00179496_ManishBC_DDOOCP.pdb
+C:\Users\manys\OneDrive\Documents\Assignement\DDOOCP Sample Examination\00179496_ManishBC_DDOOCP\00179496_ManishBC_DDOOCP\obj\Debug\00179496_ManishBC_DDOOCP.csprojAssemblyReference.cache
+C:\Users\manys\OneDrive\Documents\Assignement\DDOOCP Sample Examination\00179496_ManishBC_DDOOCP\00179496_ManishBC_DDOOCP\obj\Debug\_00179496_ManishBC_DDOOCP.BarChart.resources
+C:\Users\manys\OneDrive\Documents\Assignement\DDOOCP Sample Examination\00179496_ManishBC_DDOOCP\00179496_ManishBC_DDOOCP\obj\Debug\_00179496_ManishBC_DDOOCP.Form1.resources
+C:\Users\manys\OneDrive\Documents\Assignement\DDOOCP Sample Examination\00179496_ManishBC_DDOOCP\00179496_ManishBC_DDOOCP\obj\Debug\_00179496_ManishBC_DDOOCP.Properties.Resources.resources
+C:\Users\manys\OneDrive\Documents\Assignement\DDOOCP Sample Examination\00179496_ManishBC_DDOOCP\00179496_ManishBC_DDOOCP\obj\Debug\00179496_ManishBC_DDOOCP.csproj.GenerateResource.cache
+C:\Users\manys\OneDrive\Documents\Assignement\DDOOCP Sample Examination\00179496_ManishBC_DDOOCP\00179496_ManishBC_DDOOCP\obj\Debug\00179496_ManishBC_DDOOCP.csproj.CoreCompileInputs.cache
+C:\Users\manys\OneDrive\Documents\Assignement\DDOOCP Sample Examination\00179496_ManishBC_DDOOCP\00179496_ManishBC_DDOOCP\obj\Debug\00179496_ManishBC_DDOOCP.exe
+C:\Users\manys\OneDrive\Documents\Assignement\DDOOCP Sample Examination\00179496_ManishBC_DDOOCP\00179496_ManishBC_DDOOCP\obj\Debug\00179496_ManishBC_DDOOCP.pdb
+C:\Users\manys\OneDrive\Documents\Assignement\00179496_DDOOCP_ManishBC\00179496_ManishBC_DDOOCP\00179496_ManishBC_DDOOCP\bin\Debug\00179496_ManishBC_DDOOCP.exe.config
+C:\Users\manys\OneDrive\Documents\Assignement\00179496_DDOOCP_ManishBC\00179496_ManishBC_DDOOCP\00179496_ManishBC_DDOOCP\bin\Debug\00179496_ManishBC_DDOOCP.exe
+C:\Users\manys\OneDrive\Documents\Assignement\00179496_DDOOCP_ManishBC\00179496_ManishBC_DDOOCP\00179496_ManishBC_DDOOCP\bin\Debug\00179496_ManishBC_DDOOCP.pdb
+C:\Users\manys\OneDrive\Documents\Assignement\00179496_DDOOCP_ManishBC\00179496_ManishBC_DDOOCP\00179496_ManishBC_DDOOCP\obj\Debug\00179496_ManishBC_DDOOCP.csprojAssemblyReference.cache
+C:\Users\manys\OneDrive\Documents\Assignement\00179496_DDOOCP_ManishBC\00179496_ManishBC_DDOOCP\00179496_ManishBC_DDOOCP\obj\Debug\_00179496_ManishBC_DDOOCP.BarChart.resources
+C:\Users\manys\OneDrive\Documents\Assignement\00179496_DDOOCP_ManishBC\00179496_ManishBC_DDOOCP\00179496_ManishBC_DDOOCP\obj\Debug\_00179496_ManishBC_DDOOCP.Properties.Resources.resources
+C:\Users\manys\OneDrive\Documents\Assignement\00179496_DDOOCP_ManishBC\00179496_ManishBC_DDOOCP\00179496_ManishBC_DDOOCP\obj\Debug\00179496_ManishBC_DDOOCP.csproj.GenerateResource.cache
+C:\Users\manys\OneDrive\Documents\Assignement\00179496_DDOOCP_ManishBC\00179496_ManishBC_DDOOCP\00179496_ManishBC_DDOOCP\obj\Debug\00179496_ManishBC_DDOOCP.csproj.CoreCompileInputs.cache
+C:\Users\manys\OneDrive\Documents\Assignement\00179496_DDOOCP_ManishBC\00179496_ManishBC_DDOOCP\00179496_ManishBC_DDOOCP\obj\Debug\00179496_ManishBC_DDOOCP.exe
+C:\Users\manys\OneDrive\Documents\Assignement\00179496_DDOOCP_ManishBC\00179496_ManishBC_DDOOCP\00179496_ManishBC_DDOOCP\obj\Debug\00179496_ManishBC_DDOOCP.pdb
+C:\Users\manys\OneDrive\Documents\Assignement\00179496_DDOOCP_ManishBC\00179496_ManishBC_DDOOCP\00179496_ManishBC_DDOOCP\obj\Debug\_00179496_ManishBC_DDOOCP.Simple_Spreadsheet.resources
